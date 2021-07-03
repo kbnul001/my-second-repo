@@ -4,3 +4,10 @@ h1{
 p{
     color: red;
 }
+img{
+    margin: 20px;
+    padding: 30px;
+    height: 400px;
+    width: 300px;
+    border: 10px solid greenyellow;
+}
